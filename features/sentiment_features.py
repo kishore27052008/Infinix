@@ -27,9 +27,9 @@ HEADLINES = {
         "AMD's new AI chips gain traction against NVIDIA in data centers",
         "AMD stock volatile amid supply chain concerns",
     ],
-    "TSM": [
-        "TSMC reports strong demand for advanced AI chip manufacturing",
-        "TSMC faces geopolitical risk concerns over Taiwan tensions",
+    "AVGO": [
+        "Broadcom's AI chip revenue surges on hyperscaler demand",
+        "Broadcom stock faces pressure from broader semiconductor slowdown",
     ],
     "AMZN": [
         "Amazon Web Services sees strong growth from AI infrastructure demand",

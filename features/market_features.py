@@ -2,7 +2,7 @@ import yfinance as yf
 import pandas as pd
 import numpy as np
 
-TICKERS = ["NVDA", "MSFT", "GOOGL", "META", "AMD", "TSM", "AMZN"]
+TICKERS = ["NVDA", "MSFT", "GOOGL", "META", "AMD", "AVGO", "AMZN"]
 
 def fetch_price_data(tickers, start="2023-01-01", end="2025-09-18"):
     """Downloads daily price history for all tickers."""
